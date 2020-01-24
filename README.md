@@ -40,11 +40,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [ ] Explain the difference between `Relational Databases` and `SQL`.
 
+A Relational DB is the form of DB software that creates the actual DB. SQL is used to query DB's.
+
 - [ ] Why do tables need a `primary key`?
+
+To allow Databases to interlink with each other using the primary key as the link.
 
 - [ ] What is the name given to a table column that references the primary key on another table.
 
+Foreign Key.
+
 - [ ] What do we need in order to have a _many to many_ relationship between two tables.
+
+Table Joins.
 
 ## Minimum Viable Product
 
